@@ -1,0 +1,7 @@
+=== URL ===
+
+URL Dataset (Pilih yang bank-additional.csv): https://archive.ics.uci.edu/dataset/222/bank+marketing
+
+URL Model : https://drive.google.com/drive/folders/1aqmGzsxamUHuaTQxc1yCumPAT9FPDSrL?usp=sharing
+
+URL Streamlit : https://deposit-prediction-portugal.streamlit.app/
